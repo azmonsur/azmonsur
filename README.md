@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azmonsur
+- 👋 Hi, I’m Azeez Monsur
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Next.js and TypeScript
 - 💞️ I’m looking to collaborate on web development and data science
