@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js and TypeScript
 - 💞️ I’m looking to collaborate on web development and data science
 - 📫 How to reach me monsur.koa@gmail.com
-- Portfolio www.azeezmonsur.netlify.app
+- Portfolio https://azeezmonsur.netlify.app
 
 <!---
 azmonsur/azmonsur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
