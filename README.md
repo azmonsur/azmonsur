@@ -9,7 +9,7 @@ If this sounds like something that could ease your work, I’d love to send you 
 
 Thanks.
 
-LinkedIn: https://www.linkedin.com/in/monsur-azeez-0b29588b 
+LinkedIn: https://www.linkedin.com/in/monsur-azeez-0b29588b
 Github: https://github.com/azmonsur
 Website: https://azeezmonsur.netlify.app/
 
