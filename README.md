@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Azeez Monsur
-- 👀 I’m a software engineer
-- 👀 I’m a data analyst
-- 🌱 I’m currently learning Next.js and TypeScript
-- 💞️ I’m looking to collaborate on web development and data science
-- 📫 How to reach me monsur.koa@gmail.com
-- Portfolio https://azeezmonsur.netlify.app
+I'm a data professional with experience in SQL Server, SSIS, Excel, and Power BI - and I help small businesses and agencies save hours weekly by automating their reports and data workflows.
+
+I can help you:
+- Convert spreadsheets into interactive dashboards
+- Automate your monthly reporting using SSIS/SSRS
+- Clean, structure, and visualize your data using Python or SQL
+
+If this sounds like something that could ease your work, I’d love to send you a demo or build a simple sample for free.
+
+Thanks.
+
+LinkedIn: https://www.linkedin.com/in/monsur-azeez-0b29588b 
+Github: https://github.com/azmonsur
+Website: https://azeezmonsur.netlify.app/
 
 <!---
 azmonsur/azmonsur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
